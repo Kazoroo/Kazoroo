@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kazoroo
+- 👀 I’m interested in programming and gaming
+- 🌱 I’m currently learning Python modules 
+- 📫 How to reach me Kazoroo#7620 in Discord
