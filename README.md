@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kazoroo
-- 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning JetpackCompose
-- 📫 How to reach me Kazoroo#7620 in Discord
+- 👀 I’m interested in programming and riding a bike
+- 🌱 I’m Android app developer 
+- 📫 Discord: kazoroo
