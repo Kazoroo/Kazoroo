@@ -3,6 +3,9 @@
 - 👀 I’m interested in programming science 2020. I started with Python, but after two years I started learning Kotlin and Mobile app development, which continues to this day. If I am not programming, I usually ride a bike or read books.
 - 🌱 I’m an Android mobile app developer from Poland 🇵🇱
 - 📫 You can text me on Discord: kazoroo1903
+
+
+Meum opus magnum est <a href="https://github.com/Kazoroo/DicesGame">DicesGame</a>
   
 <img src="https://github.com/user-attachments/assets/8032d3c0-f622-4d21-94d0-477d7ca1ce0c" width="30%" height="30%">
 
