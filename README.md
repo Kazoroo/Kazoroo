@@ -14,8 +14,8 @@ Meum opus magnum est <a href="https://github.com/Kazoroo/Tavern-Farkle">Tavern F
 
 
 ## Statistics:
-[![Kazoroo's Github stats](https://github-readme-stats.vercel.app/api?username=Kazoroo&show_icons=true%theme=shadow_blue&text_color=00b300&title_color=000000&show=reviews&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Kazoroo's Github stats](https://github-readme-stats.vercel.app/api?username=Kazoroo&show_icons=true%theme=shadow_blue&text_color=00b300&title_color=000000&show=reviews&rank_icon=percentile)](https://wakatime.com/@Kazoroo?rank=me&page=3&country_code=PL)
 
-[![Kazoroo's streak](https://github-readme-streak-stats.herokuapp.com/?user=Kazoroo&fire=DD2727)](https://github.com/anuraghazra/github-readme-stats)
+[![Kazoroo's streak](https://github-readme-streak-stats.herokuapp.com/?user=Kazoroo&fire=DD2727)](https://wakatime.com/@Kazoroo?rank=me&page=3&country_code=PL)
 
-[![Kazoroo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kazoroo&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kazoroo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kazoroo&hide_border=true)](https://wakatime.com/@Kazoroo?rank=me&page=3&country_code=PL)
