@@ -6,7 +6,7 @@
 
 Meum opus magnum est <a href="https://github.com/Kazoroo/Tavern-Farkle">Tavern Farkle</a>
   
-<img src="https://github.com/user-attachments/assets/8032d3c0-f622-4d21-94d0-477d7ca1ce0c" width="30%" height="30%">
+<img src="https://github.com/user-attachments/assets/8032d3c0-f622-4d21-94d0-477d7ca1ce0c" style="width: 50%; height: 50%;">
 
 ## Tech stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=darkblue)
