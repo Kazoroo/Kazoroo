@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @Kazoroo
 - 👀 I’m interested in programming science 2020. I started with Python, but after two years I started learning Kotlin and mobile app development, which continues to this day. If I am not programming, I usually ride a bike or read books.
 - 🌱 I’m an Android mobile app developer from Poland 🇵🇱
-- 📫 You can text me on Discord: kazoroo1903
 
 Meum opus magnum est <a href="https://github.com/Kazoroo/Tavern-Farkle">Tavern Farkle</a>
   
